@@ -1,3 +1,3 @@
 # dotgo
 
-# 3D Game project uses godot engine & golang
+# 3D Game project
